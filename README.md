@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hkoder
-- 👀 I’m interested in learning Javascript
-- 🌱 I’m currently learning Spanish, CSS, and HTML
+- 👀 I’m interested in climbing, coding, and how things work
+- 🌱 I’m currently learning Spanish, CSS, Javascript, and HTML
 - 💞️ I’m looking to collaborate on any project, really anything that could help me learn.
 
 <!---
